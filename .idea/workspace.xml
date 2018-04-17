@@ -2,130 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c1adc8c-9a9e-47cc-835e-58df1fa0e3d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FAQ.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics-google.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics-piwik.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog-post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/favicon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/read-time.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/related.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social-links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/compress.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-23-indigo-jekyll-theme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-24-markdown-common-elements.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-17-bai-viet-dau-tien.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/general.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/helpers.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/syntax.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/variables.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/author.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/disqus.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/footer.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/header.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/nav.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/others.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/pagination.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/related.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/share.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/side-by-side.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/social-links.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/spoiler.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/pages/home-blog-projects.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/pages/page.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/pages/post.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/pages/tags.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/FAQ.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/code.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/favicon-128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/favicon-196x196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/favicon/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/james.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/jekyll-logo-light-solid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/markdown.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/screen-shot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/indigo-jekyll-theme/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown-common-elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown-extra-components/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/travis.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/code.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-196x196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/james.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/jekyll-logo-light-solid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/markdown.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/screen-shot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/travis.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -138,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,8 +35,8 @@
       <list>
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2018-04-17-bai-viet-dau-tien.markdown" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -224,24 +111,25 @@
       <workItem from="1523935994364" duration="1579000" />
       <workItem from="1523937645043" duration="933000" />
       <workItem from="1523938865700" duration="903000" />
-      <workItem from="1523940746930" duration="269000" />
+      <workItem from="1523940746930" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3684000" />
+    <option name="totallyTimeSpent" value="3983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1645" height="1177" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19273399" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19273399" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2712963" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2712963" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,13 +248,6 @@
         <state relative-caret-position="-887" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -461,6 +342,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
