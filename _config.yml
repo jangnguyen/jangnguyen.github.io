@@ -1,9 +1,13 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Nguyễn Trường Giang ( 🐻 )
+bio: Super Junior Android Developer start to learn React Native.
+
+# Build settings
+markdown: kramdown
+theme: indigo
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Blog about Android and more
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,15 +38,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: giangnguyen
+twitter: gauanh07@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: jangnguyen
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,12 +54,12 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: giangnguyen.developer@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Nguyễn Trường Giang
+        bio: Super Junior Android Developer start to learn React Native.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
