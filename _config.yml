@@ -1,9 +1,9 @@
 #blog settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: indigo
 
 # main text of home
-name: John Doe
+name: Giang Nguyen
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
