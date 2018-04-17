@@ -1,6 +1,6 @@
 #blog settings
 markdown: kramdown
-theme: indigo
+theme: jekyll-theme-cayman
 
 # main text of home
 name: John Doe
